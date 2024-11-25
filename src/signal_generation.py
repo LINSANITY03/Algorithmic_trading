@@ -1,0 +1,1 @@
+# Functions for calculating moving averages and signals
