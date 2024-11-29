@@ -1,6 +1,7 @@
 params:
   ticker: "AAPL"
-  start_date: "2020-01-01"
+  start_date: "2018-01-01"
   end_date: "2023-01-01"
-  short_window: 10
-  long_window: 10
+  short_window: 5
+  long_window: 17
+  transaction_cost: 0.001
